@@ -1,0 +1,11 @@
+{
+    "launch": {
+
+
+
+        "configurations": [],
+        "compounds": []
+    },
+    "notebook.showCellStatusBarAfterExecute": true,
+    "git.allowForcePush": true
+}
